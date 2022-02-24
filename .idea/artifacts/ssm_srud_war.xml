@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ssm-srud:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>ssm-srud</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="ssm-srud-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ssm-srud:war exploded" />
+    </root>
+  </artifact>
+</component>
