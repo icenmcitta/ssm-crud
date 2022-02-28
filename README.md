@@ -28,3 +28,4 @@
           主键：员工编号
           外键：部门编号
           
+学习笔记链接（CSDN）：https://blog.csdn.net/roybaekchan/article/details/123193418?spm=1001.2014.3001.5501
